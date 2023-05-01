@@ -1,0 +1,7 @@
+100 Jashandeep Singh 5020 Pant 45 2
+101 Manvir Singh 4050 Shirt 30 1
+102 Jaswant Singh 4052 Tie 15 3
+103 Arshdeep Singh 4000 Coat 100 1
+100 Jashandeep Singh 5020 Pant 75 2
+101 Manvir Singh 4050 Shirt 30 1
+100 Jashandeep Singh 4050 Pant 30 2
